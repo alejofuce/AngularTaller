@@ -1,0 +1,1 @@
+<?php requeire("app.component.html"); ?>
